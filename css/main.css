@@ -1,5 +1,5 @@
 *{
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -180,13 +180,16 @@ p img{
         color: #FFFFFF;
         border: 0px;
         text-align: left;
-        padding-left: 5.6%;
+        padding-left: 5.7%;
     }
 
     .mainnav{
         float: left;
         width: 25%;
         box-shadow: 3px 3px 6px #aaaaaa;
+        padding-bottom: 23.2vw;
+        background: url("http://lorempixel.com/700/700/cats/") no-repeat center 95%;
+        background-size: 95% auto;
     }
 
     .mainnav ul li a{
